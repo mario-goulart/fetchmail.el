@@ -19,4 +19,4 @@ When `f` is pressed, the command set in the fetchmail-command variable
 buffer whose name can be configured with the `fetchmail-buffer`
 variable (default = `*fetchmail*`).
 
-![Screenshot](http://parenteses.org/mario/img/utils/fetchail.el/fetchmail.el.png)
+![Screenshot](http://parenteses.org/mario/img/utils/fetchmail.el/fetchmail.el.png)
